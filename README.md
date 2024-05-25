@@ -40,4 +40,5 @@ The main objectives of this exercise are to:
 ### Installation
 
 1. Clone the repository:
-   ```bash git clone https://github.com/VictoriaPashkouskaya/Proyecto-Quiz
+   ```bash
+   git clone https://github.com/VictoriaPashkouskaya/Proyecto-Quiz.git
