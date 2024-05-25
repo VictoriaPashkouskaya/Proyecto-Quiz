@@ -40,4 +40,4 @@ The main objectives of this exercise are to:
 ### Installation
 
 1. Clone the repository:
-   ```bash 
+   ```bash git clone https://github.com/VictoriaPashkouskaya/Proyecto-Quiz
