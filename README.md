@@ -22,7 +22,7 @@ The main objectives of this exercise are to:
 - Avoid external frameworks and libraries as much as possible, except for CSS frameworks like Bootstrap
 - Project management from the beginning in a single shared repository (as collaborators) on GitHub
 - Clean code, good practices
-- A README file explaining the project
+- A README file explaining the project.
 
 ## Pages
 
